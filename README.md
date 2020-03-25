@@ -1,4 +1,4 @@
-###### Palindrome Messages Webapp
+Palindrome Messages Webapp
 
 A web application that allows users to read, post, delete and update messages and show details about messages - eg if it is a palindomre or not. 
 
