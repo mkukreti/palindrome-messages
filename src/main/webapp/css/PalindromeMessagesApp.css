@@ -1,0 +1,55 @@
+#palindrome-messages-root {
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+#messages_container {
+  background-color: aliceblue;
+  display: grid;
+  border-radius: 15px;
+}
+
+#message {
+  background: lightblue;
+  padding: 10px;
+  margin: 7px;
+  border-radius: 15px;
+}
+
+#message.deleting {
+  background-color: lightcoral;
+}
+
+#message.deleted {
+  background-color: lightseagreen;
+}
+
+#message.deleteFailed {
+  background-color: lightgray;
+}
+
+#message_body {
+  display: inline-block;
+  margin-right: 25px;
+}
+
+#message_details {
+  font-size: small;
+  font-weight: lighter;
+  margin-top: 10px;
+}
+
+#add_message_container .textBox {
+  display: block;
+  width: 100%;
+  margin-bottom: 5px;
+  line-height: 4;
+}
+
+#add_message_container .send {
+  display: block;
+  width: 100%;
+  line-height: 2;
+  font-size: 15px;
+}
+

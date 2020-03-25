@@ -1,0 +1,4 @@
+{
+  "JDBC_CONNECTION_URL": "your:jdbc:connection:url",
+  "TEST_HOST_URL": "http://localhost:8080/palindrome-messages-webapp/"
+}
